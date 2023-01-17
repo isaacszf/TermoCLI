@@ -13,5 +13,5 @@ Diferente do [Termo](https://term.ooo), o que seria a "palavra do dia" é na ver
 ./term
 
 # Windows
-./term.exe
+(cmd) .\term.exe
 ```
